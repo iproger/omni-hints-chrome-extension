@@ -1,0 +1,11 @@
+# IntellijIdea files
+.idea/
+
+node_modules
+npm-debug.log
+build/*.crx
+build/dev
+build/prod
+build/updates.xml
+.tmp
+*.swp
