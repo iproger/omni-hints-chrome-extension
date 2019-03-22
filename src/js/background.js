@@ -1,5 +1,6 @@
 import handlers from './modules/handlers';
 import msg from './modules/msg';
+import sitemapParser from './app/components/SitemapParser';
 
 // here we use SHARED message handlers, so all the contexts support the same
 // commands. in background, we extend the handlers with two special

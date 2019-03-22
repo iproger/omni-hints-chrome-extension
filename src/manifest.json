@@ -15,7 +15,7 @@
   "permissions": [ "<all_urls>" ],
   "web_accessible_resources": [ "js/*", "html/*", "css/*", "images/*" ],
   "content_security_policy": "script-src 'self'; object-src 'self'",
-  "name": "<%= package.name %>",
-  "version": "<%= package.version %>",
-  "description": "<%= package.description %>"
+  "name": "Omni Hints",
+  "version": "0.1",
+  "description": ""
 }
